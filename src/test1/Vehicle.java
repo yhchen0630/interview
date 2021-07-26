@@ -1,0 +1,16 @@
+package interview;
+
+public abstract class Vehicle{
+
+//////////////////////////////////////////////	
+	
+	public abstract void move();
+	
+//////////////////////////////////////////////
+	
+	public void start() {
+		System.out.println("啟動！");
+	}
+}
+
+		
